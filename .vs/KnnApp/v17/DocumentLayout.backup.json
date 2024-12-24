@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ulvir\\OneDrive\\Desktop\\API_Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0643E33-613B-4D85-B39D-4D8DCE975996}|KnnApp.API\\KnnApp.API.csproj|c:\\users\\ulvir\\onedrive\\desktop\\api_task1\\knnapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0643E33-613B-4D85-B39D-4D8DCE975996}|KnnApp.API\\KnnApp.API.csproj|solutionrelative:knnapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|c:\\users\\ulvir\\onedrive\\desktop\\api_task1\\knnapp.dal\\context\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|solutionrelative:knnapp.dal\\context\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|c:\\users\\ulvir\\onedrive\\desktop\\api_task1\\knnapp.core\\entityes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|solutionrelative:knnapp.core\\entityes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|c:\\users\\ulvir\\onedrive\\desktop\\api_task1\\knnapp.core\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|solutionrelative:knnapp.core\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0643E33-613B-4D85-B39D-4D8DCE975996}|KnnApp.API\\KnnApp.API.csproj|c:\\users\\ulvir\\onedrive\\desktop\\api_task1\\knnapp.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0643E33-613B-4D85-B39D-4D8DCE975996}|KnnApp.API\\KnnApp.API.csproj|solutionrelative:knnapp.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\API_Task1\\KnnApp.Core\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "RelativeDocumentMoniker": "KnnApp.Core\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\API_Task1\\KnnApp.Core\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "RelativeToolTip": "KnnApp.Core\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:58:59.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\API_Task1\\KnnApp.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "KnnApp.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\API_Task1\\KnnApp.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "KnnApp.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:44:30.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\API_Task1\\KnnApp.DAL\\Context\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "KnnApp.DAL\\Context\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\API_Task1\\KnnApp.DAL\\Context\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "KnnApp.DAL\\Context\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:37:27.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\API_Task1\\KnnApp.Core\\Entityes\\Category.cs",
+              "RelativeDocumentMoniker": "KnnApp.Core\\Entityes\\Category.cs",
+              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\API_Task1\\KnnApp.Core\\Entityes\\Category.cs",
+              "RelativeToolTip": "KnnApp.Core\\Entityes\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:37:04.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\OneDrive\\Desktop\\API_Task1\\KnnApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "KnnApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ulvir\\OneDrive\\Desktop\\API_Task1\\KnnApp.API\\Program.cs",
+              "RelativeToolTip": "KnnApp.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:27:40.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

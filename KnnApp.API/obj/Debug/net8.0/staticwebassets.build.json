@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xRmBB6dC4m5+LAak02flSBMEiT46lKa3cxfZRugO3Qc=",
+  "Source": "KnnApp.API",
+  "BasePath": "_content/KnnApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
